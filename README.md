@@ -1,4 +1,4 @@
-# everday-admin
+# vue-admin
 
 ## Project setup
 ```
